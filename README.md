@@ -1,7 +1,7 @@
 <!-- 👩‍🚀 Welcome Panel -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SreejaSadhu/SreejaSadhu/main/assets/myname.png" width="600" alt="Sreeja Name" />
+<img src="https://raw.githubusercontent.com/SreejaSadhu/SreejaSadhu/main/myname.png" width="600" alt="Sreeja Name" />
 
 
 <p>
