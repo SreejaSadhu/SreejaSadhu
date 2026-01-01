@@ -1,9 +1,3 @@
-<!-- 👩‍🚀 Welcome Panel -->
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/SreejaSadhu/SreejaSadhu/main/myname.png" width="160" alt="Sreeja Name" />
-
-
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=FEE75C&center=true&vCenter=true&width=600&lines=Hey+I'm+Sreeja+Sadhu;Full-stack+Developer+%7C+Problem+Solver;Solving+Real-World+Problems+One+Line+at+a+Time!" alt="Typing SVG" />
 </p>
