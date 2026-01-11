@@ -21,10 +21,6 @@
 
 <div align="center">
 
-🎨 **GitHub Artboard**  
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="80%" />
-
-<br/>
 
 🧠 **LeetCode Level-Up Map**  
 <img src="https://leetcard.jacoblin.cool/Sreeja_Sadhu?theme=dark&font=Baloo+2&ext=heatmap" width="40%" />
