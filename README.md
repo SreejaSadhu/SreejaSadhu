@@ -38,9 +38,9 @@
 
 ### 🧃 Fun Bits
 
-- 📚 Love reading quirky marketing blogs.  
-- 🤯 Addicted to figuring out *why* things work.  
-- 🌈 Dreaming of launching dev tools with personality.
+- Love reading quirky marketing blogs.  
+- Addicted to figuring out *why* things work.  
+- Dreaming of launching dev tools with personality.
 
 ---
 
