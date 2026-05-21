@@ -50,33 +50,54 @@
 
 <table>
   <tr>
+    <!-- LinkedIn -->
     <td align="center">
       <a href="https://www.linkedin.com/in/sreejasadhu" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/>
-        <br/>
+        <img 
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
+          width="40" 
+          alt="LinkedIn"
+        />
+        <br />
         <sub><b>@sreejasadhu</b></sub>
       </a>
     </td>
-    <td width="60"></td>
+    <td width="50"></td>
+    <!-- Gmail -->
     <td align="center">
       <a href="mailto:sreejasadhu06@gmail.com">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" alt="Gmail"/>
-        <br/>
+        <img 
+          src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" 
+          width="40" 
+          alt="Gmail"
+        />
+        <br />
         <sub><b>sreejasadhu06</b></sub>
       </a>
     </td>
-    <td width="60"></td>
+    <td width="50"></td>
+    <!-- LeetCode -->
     <td align="center">
       <a href="https://leetcode.com/u/Sreeja_Sadhu/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" alt="LeetCode"/>
-        <br/>
+        <img 
+          src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" 
+          width="40" 
+          alt="LeetCode"
+        />
+        <br />
         <sub><b>@Sreeja_Sadhu</b></sub>
       </a>
     </td>
+    <td width="50"></td>
+    <!-- Discord -->
     <td align="center">
       <a href="https://discord.com/users/950771380968906804" target="_blank">
-        <img src="https://www.vecteezy.com/free-png/discord-logo" width="40" alt="LinkedIn"/>
-        <br/>
+        <img 
+          src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" 
+          width="40" 
+          alt="Discord"
+        />
+        <br />
         <sub><b>@sreejasadhu</b></sub>
       </a>
     </td>
