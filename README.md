@@ -73,6 +73,13 @@
         <sub><b>@Sreeja_Sadhu</b></sub>
       </a>
     </td>
+    <td align="center">
+      <a href="https://discord.com/users/950771380968906804" target="_blank">
+        <img src="https://www.vecteezy.com/free-png/discord-logo" width="40" alt="LinkedIn"/>
+        <br/>
+        <sub><b>@sreejasadhu</b></sub>
+      </a>
+    </td>
   </tr>
 </table>
 
